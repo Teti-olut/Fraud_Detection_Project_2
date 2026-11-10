@@ -22,14 +22,14 @@ The PowerPoint presentation for this analysis can be found here:
 
 The Apex Digital Wallet table schema  as seen below consists of one table.
 
-![Transactions Table Schema](Images\Schema_picture.png)
+![Transactions Table Schema](/schema_picture.png)
 
 ## Executive Summary
 
 ### Overview of Findings
 Transitioning Apex Digital Wallet from a legacy static rule limit (>₦150,000) to a dynamic Z-Score ($Z > 3.0$) anomaly detection model significantly reduces operational noise by cutting false positives by 22.5%, while successfully preserving high-risk fraud capture. The optimized two-tier risk-tiering framework prevents wasted manual reviews on 68 legitimate transactions per 50,000 logs, directly lowering compliance overhead and safeguarding capital. 
 
-![Executive Summary Dashboard Snapshot](Images\Dashboard_picture.png)
+![Executive Summary Dashboard Snapshot](/Dashboard.png)
 
 ## Insights Deep Dive
 
@@ -40,7 +40,7 @@ Transitioning Apex Digital Wallet from a legacy static rule limit (>₦150,000) 
 *   **Wasted Review Reduction:** By filtering out 68 fewer false alarms than the legacy system, the Z-Score framework successfully minimizes analyst fatigue while preserving high-confidence threat detection.
 *   **Operational Impact:** Higher precision ensures compliance teams spend more time investigating actual fraud vectors rather than sorting through noise.
 
-![Precision Rate Comparison](images/Precision_graph.png)
+![Precision Rate Comparison](/Precision%20Rate.png)
 
 ### Category 2: False Positive Rate Comparison
 
@@ -49,7 +49,7 @@ Transitioning Apex Digital Wallet from a legacy static rule limit (>₦150,000) 
 *   **Adaptive Boundary Isolation:** By leveraging standard deviation boundaries instead of a static monetary cutoff, the model isolates true transaction outliers without penalizing normal user spending patterns.
 *   **Queue Optimization:** Dropping total false positives from 302 down to 234 significantly streamlines operational queues for risk management personnel.
 
-![False Positive Rate Comparison](images/False_Positive_Rtae_Picture.png)
+![False Positive Rate Comparison](/False%20Positive%20rate.png)
 
 ## Recommendations
 
