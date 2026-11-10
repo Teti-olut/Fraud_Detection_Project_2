@@ -49,7 +49,7 @@ Transitioning Apex Digital Wallet from a legacy static rule limit (>₦150,000) 
 *   **Adaptive Boundary Isolation:** By leveraging standard deviation boundaries instead of a static monetary cutoff, the model isolates true transaction outliers without penalizing normal user spending patterns.
 *   **Queue Optimization:** Dropping total false positives from 302 down to 234 significantly streamlines operational queues for risk management personnel.
 
-![False Positive Rate Comparison](Images\False_Positive_Rtae_Picture.png)
+![False Positive Rate Comparison](images/False_Positive_Rtae_Picture.png)
 
 ## Recommendations
 
