@@ -40,7 +40,7 @@ Transitioning Apex Digital Wallet from a legacy static rule limit (>₦150,000) 
 *   **Wasted Review Reduction:** By filtering out 68 fewer false alarms than the legacy system, the Z-Score framework successfully minimizes analyst fatigue while preserving high-confidence threat detection.
 *   **Operational Impact:** Higher precision ensures compliance teams spend more time investigating actual fraud vectors rather than sorting through noise.
 
-![Precision Rate Comparison](Images\Precision_graph.png)
+![Precision Rate Comparison](images/Precision_graph.png)
 
 ### Category 2: False Positive Rate Comparison
 
