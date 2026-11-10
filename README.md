@@ -16,4 +16,10 @@ Insights and recommendations are provided on the following key areas:
 An interactive dashboard used to report and explore risk trends can be found here [Download Power BI Dashboard File](https://github.com/Teti-olut/Fraud_Detection_Project_2/blob/main/Fraud%20detection%20dashboard.pbix).
 
 The PowerPoint presentation for this analysis can be found here: 
-[Download Full Presentation Deck](https://github.com/Teti-olut/Fraud_Detection_Project_2/blob/main/Fraud%20Detection%20Executive%20Summary%202.pptx)
+[Download Full Presentation Deck](https://github.com/Teti-olut/Fraud_Detection_Project_2/blob/main/Fraud%20Detection%20Executive%20Summary%20(2).pptx)
+
+## Data Structure & Initial Checks
+
+The Apex Digital Wallet database structure  as seen below consists of one table.
+
+![Transactions Table Schema]()
